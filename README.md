@@ -1,16 +1,90 @@
-## Hi there 👋
+<!-- ================= HEADER WITH ANIMATION ================= -->
 
-<!--
-**shruti072005/shruti072005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shruti+Jadhav;Full+Stack+Python+Developer;Tech+Enthusiast;Problem+Solver" />
+</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me  
+
+Motivated and self-driven Full Stack Python Developer with hands-on experience in HTML, CSS, JavaScript, Django, MySQL, REST APIs, and more. Passionate about creating responsive and scalable applications. Looking for opportunities to grow and contribute to real-world development teams.
+
+- 💡 Good analytical & problem-solving skills  
+- 👩‍💻 Interested in full-stack development  
+- 📍 Pune, Maharashtra  
+- 🎯 Quick learner & motivated
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science (B.Sc CS)**  
+*K.V.N. Naik College, Nashik*  
+2022 – 2025 | **CGPA: 9.10**
+
+**Higher Secondary Certificate (HSC)**  
+D. D. Bytco Boys Jr. College  
+2021 – 2022 | **60%**
+
+**Secondary School Certificate (SSC)**  
+D. D. Bytco Boys School  
+2019 – 2020 | **88%**
+
+---
+
+## 🛠 Technical Skills
+
+### **Languages**
+- HTML  
+- CSS  
+- JavaScript  
+- Python (Core & Advanced)
+
+### **Frameworks & Technologies**
+- Django  
+- React.js  
+- REST API  
+- Bootstrap  
+- NumPy  
+- Pandas  
+
+### **Databases**
+- MySQL  
+- MongoDB  
+
+### **Tools**
+- Git & GitHub  
+- Visual Studio  
+- Linux  
+- Postman
+
+---
+
+## 📂 Projects
+
+### 🍽 SmartMeal – Online Food Ordering System  
+- Built a responsive online food ordering web application  
+- Modern and intuitive UI design  
+- Secure ordering workflow  
+- Smooth order management
+
+### 🌴 Sunshine Resort – Room Booking System (Django + REST API)  
+- Developed a complete resort booking backend using Django & MySQL  
+- Displays and manages booking details through an HTML dashboard  
+- Staff/admin access for review and management  
+- Works via browser and REST endpoints
+
+---
+
+## 📫 Contact Me
+
+- ✉ Email: **shrutijadhav0704@gmail.com**  
+- 📱 Phone: **9823594694**  
+- 🔗 LinkedIn: https://linkedin.com/in/shruti-jadhav-46a021369  
+- 💻 GitHub: https://github.com/shruti072005  
+- 🌍 Location: Pune, Maharashtra  
+
+---
+
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
