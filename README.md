@@ -1,8 +1,16 @@
 <!-- ================= HEADER WITH ANIMATION ================= -->
 
+<!-- ================= NAME ANIMATION ================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shruti+Jadhav;Full+Stack+Python+Developer;Tech+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=38&duration=4000&color=F78A1D&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shruti+Jadhav" />
 </h1>
+
+<!-- ================= TECHNOLOGY ANIMATION ================= -->
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Python+Developer;HTML+%7C+CSS+%7C+JavaScript;Django+%7C+REST+API;MySQL+%7C+MongoDB;React.js+%7C+Bootstrap;Pandas+%7C+NumPy" />
+</h3>
 
 ---
 
